@@ -1,0 +1,12 @@
+/Users/jhaynie/Desktop/pleasework/obj/Debug/netcoreapp3.1/pleasework.csprojAssemblyReference.cache
+/Users/jhaynie/Desktop/pleasework/obj/Debug/netcoreapp3.1/pleasework.AssemblyInfoInputs.cache
+/Users/jhaynie/Desktop/pleasework/obj/Debug/netcoreapp3.1/pleasework.AssemblyInfo.cs
+/Users/jhaynie/Desktop/pleasework/obj/Debug/netcoreapp3.1/pleasework.csproj.CoreCompileInputs.cache
+/Users/jhaynie/Desktop/pleasework/bin/Debug/netcoreapp3.1/pleasework.deps.json
+/Users/jhaynie/Desktop/pleasework/bin/Debug/netcoreapp3.1/pleasework.runtimeconfig.json
+/Users/jhaynie/Desktop/pleasework/bin/Debug/netcoreapp3.1/pleasework.runtimeconfig.dev.json
+/Users/jhaynie/Desktop/pleasework/bin/Debug/netcoreapp3.1/pleasework.dll
+/Users/jhaynie/Desktop/pleasework/bin/Debug/netcoreapp3.1/pleasework.pdb
+/Users/jhaynie/Desktop/pleasework/obj/Debug/netcoreapp3.1/pleasework.dll
+/Users/jhaynie/Desktop/pleasework/obj/Debug/netcoreapp3.1/pleasework.pdb
+/Users/jhaynie/Desktop/pleasework/obj/Debug/netcoreapp3.1/pleasework.genruntimeconfig.cache
